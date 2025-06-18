@@ -12,7 +12,7 @@
 
 ## 💻 Languages I work with:
 
-* *Python 🐬 C ⚙, and C++*
+* *Python , C ⚙, C++ , Java*
 
 ## 📫 Reach out to me!
 *🌱I believe in continuous learning and the power of technology to make a difference. Join me as I explore new horizons in tech!*
