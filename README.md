@@ -1,6 +1,6 @@
 ## 👋Hii, I’m Rutik! 
 
-* *A Second-year Computer Engineering student with a knack for problem-solving and a passion for coding.*
+* *A Computer Engineering student with a knack for problem-solving and a passion for coding.*
 
 ## 🔍 What excites me:
 
